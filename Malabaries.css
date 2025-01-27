@@ -1,0 +1,109 @@
+body{
+    font-family: Poppins sans-serif;
+    background-color: #F5F7F2;
+}
+.banner{
+    display: flex;
+    padding-top: 50px;
+    border-radius: 15px;
+   text-align: center;
+   gap: 150px;
+   align-items: center;
+}
+.bannertext{
+  padding-left: 50px;
+  margin-left: 10px;
+}
+
+.bannerimg{
+
+width: max-content;
+}
+#img{
+    height: 500px;
+    border-radius: 15px;
+   
+}
+.head{
+    padding: 50px;
+}
+h2{
+    text-align: center;
+    color: green;
+    font-weight: bolder;
+}
+h1{
+    align-items: center;
+    text-align: center;
+}
+
+button:hover{
+    background-color: white;
+
+}
+.book{
+    display: flex;
+    border-radius: 10px;
+    border-radius: 15px;
+    height: 484px; 
+    padding: 10px;
+    width: 1116px;
+    margin-left: 150px;
+
+}
+.bimg{
+    width: 515px;
+    height: 484px;
+    padding: 50px;
+}
+.form{
+  
+    padding-top: 50px;
+    width: 750px;
+}
+.aboimg{
+    padding: 50px;
+    align-items: center;
+    text-align: center;
+}
+.abimg{
+    width: 1122px;
+    height: 420px;
+}
+#footer{
+    height: 400px;
+    background-color: #328f5c;
+}
+.contact{
+    margin-left: 800px;
+    padding: 20px;
+    font-weight: bolder;
+}
+.ft{
+    margin-left: 20px;
+    padding: 10px;
+}
+.social{
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    justify-content: center;
+}
+.servtxt{
+    padding: 20px;
+    font-size: larger;
+    text-align: center;
+}
+.cnttxt{
+    padding: 25px;
+}
+
+.main{
+    display: flex;
+    background-image: url(photo-1514933651103-005eec06c04b.avif);
+    background-size: cover;
+    
+}
+.cform{
+    color: rgb(237, 100, 155);
+}
